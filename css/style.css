@@ -1,0 +1,54 @@
+/*
+* {
+  border: 1px solid red !important;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  color: #7C8B88;
+}
+*/
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #2d3c49;
+  font-weight: 300;
+}
+
+hr {
+  border: none;
+  height: 5px;
+  color: #7d97ad;
+  background-color: #7d97ad;
+}
+.text-muted {
+  color: #7d97ad;
+}
+
+.text-thin {
+  font-weight: 100:
+}
+
+.title-super {
+  font-size: 60px;
+}
+
+.title-logo {
+  margin-top: 20px;
+}
+
+.credits {
+  text-align: right;
+}
+
+.credits a:nth-child(odd) .fa-flickr {
+  color: #0063dc;
+}
+
+.credits a:nth-child(even) .fa-flickr {
+  color: #fc329b;
+}
