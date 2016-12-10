@@ -10,6 +10,11 @@ hr {
   color: #7d97ad;
   background-color: #7d97ad;
 }
+
+.thin-line {
+  height: 1px;
+}
+
 .text-muted {
   color: #7d97ad;
 }
